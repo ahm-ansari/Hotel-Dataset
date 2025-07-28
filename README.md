@@ -36,7 +36,7 @@ This project solves these challenges by creating an interactive Power BI dashboa
 ## 🧰 Technical Stack
 - **Power BI Desktop** – for report development
 - **DAX (Data Analysis Expressions)** – for calculated measures
-- **Power Query (M)** – for ETL and transformations
+- **Power Query** – for ETL and transformations
 
 ---
 
